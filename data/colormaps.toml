@@ -1,0 +1,216 @@
+[[class_0]]
+Classes = "unlabeled"
+R = 0
+G = 0
+B = 0
+Id = 0
+
+[[class_0]]
+Classes = "paved-area"
+R = 128
+G = 64
+B = 128
+Id = 1
+
+[[class_0]]
+Classes = "dirt"
+R = 130
+G = 76
+B = 0
+Id = 2
+
+[[class_0]]
+Classes = "grass"
+R = 0
+G = 102
+B = 0
+Id = 3
+
+[[class_0]]
+Classes = "gravel"
+R = 112
+G = 103
+B = 87
+Id = 4
+
+[[class_0]]
+Classes = "water"
+R = 28
+G = 42
+B = 168
+Id = 5
+
+[[class_0]]
+Classes = "rocks"
+R = 48
+G = 41
+B = 30
+Id = 6
+
+[[class_0]]
+Classes = "pool"
+R = 0
+G = 50
+B = 89
+Id = 7
+
+[[class_0]]
+Classes = "vegetation"
+R = 107
+G = 142
+B = 35
+Id = 8
+
+[[class_0]]
+Classes = "roof"
+R = 70
+G = 70
+B = 70
+Id = 9
+
+[[class_0]]
+Classes = "wall"
+R = 102
+G = 102
+B = 156
+Id = 10
+
+[[class_0]]
+Classes = "window"
+R = 254
+G = 228
+B = 12
+Id = 11
+
+[[class_0]]
+Classes = "door"
+R = 254
+G = 148
+B = 12
+Id = 12
+
+[[class_0]]
+Classes = "fence"
+R = 190
+G = 153
+B = 153
+Id = 13
+
+[[class_0]]
+Classes = "fence-pole"
+R = 153
+G = 153
+B = 153
+Id = 14
+
+[[class_0]]
+Classes = "person"
+R = 255
+G = 22
+B = 96
+Id = 15
+
+[[class_0]]
+Classes = "dog"
+R = 102
+G = 51
+B = 0
+Id = 16
+
+[[class_0]]
+Classes = "car"
+R = 9
+G = 143
+B = 150
+Id = 17
+
+[[class_0]]
+Classes = "bicycle"
+R = 119
+G = 11
+B = 32
+Id = 18
+
+[[class_0]]
+Classes = "tree"
+R = 51
+G = 51
+B = 0
+Id = 19
+
+[[class_0]]
+Classes = "bald-tree"
+R = 190
+G = 250
+B = 190
+Id = 20
+
+[[class_0]]
+Classes = "ar-marker"
+R = 112
+G = 150
+B = 146
+Id = 21
+
+[[class_0]]
+Classes = "obstacle"
+R = 2
+G = 135
+B = 115
+Id = 22
+
+[[class_0]]
+Classes = "conflicting"
+R = 255
+G = 0
+B = 0
+Id = 23
+
+[[class_1]]
+Classes = "obstacles"
+R = 155
+G = 38
+B = 182
+Id = 0
+
+[[class_1]]
+Classes = "water"
+R = 14
+G = 135
+B = 204
+Id = 1
+
+[[class_1]]
+Classes = "soft-surfaces"
+R = 124
+G = 252
+B = 0
+Id = 2
+
+[[class_1]]
+Classes = "moving-objects"
+R = 255
+G = 20
+B = 147
+Id = 3
+
+[[class_1]]
+Classes = "landing-zones"
+R = 169
+G = 169
+B = 169
+Id = 4
+
+[[class_2]]
+Classes = "obstacles"
+R = 204
+G = 153
+B = 255
+Id = 0
+
+[[class_2]]
+Classes = "landing-zones"
+R = 14
+G = 135
+B = 204
+Id = 1
